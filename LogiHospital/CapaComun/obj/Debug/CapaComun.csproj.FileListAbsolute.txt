@@ -1,0 +1,6 @@
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\LogiHospital\CapaComun\bin\Debug\CapaComun.dll
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\LogiHospital\CapaComun\bin\Debug\CapaComun.pdb
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\LogiHospital\CapaComun\obj\Debug\CapaComun.csproj.AssemblyReference.cache
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\LogiHospital\CapaComun\obj\Debug\CapaComun.csproj.CoreCompileInputs.cache
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\LogiHospital\CapaComun\obj\Debug\CapaComun.dll
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\LogiHospital\CapaComun\obj\Debug\CapaComun.pdb

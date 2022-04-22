@@ -1,0 +1,11 @@
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\bin\Debug\Dominio.dll
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\obj\Debug\Dominio.dll
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\bin\Debug\CapaComun.dll
+C:\Users\Dew A\OneDrive\Escritorio\7mo cuatrimestre\DCU\TareaFinal\Dominio\bin\Debug\CapaComun.pdb

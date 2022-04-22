@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "532e3e3f-648a-4ce1-854e-8a7dcf421b50": {
+      "ProjectGuid": "532e3e3f-648a-4ce1-854e-8a7dcf421b50",
+      "DisplayName": "Presentacion",
+      "ColorIndex": 0
+    },
+    "c7fdea32-39b0-4a74-9b3d-bd7cbf50be53": {
+      "ProjectGuid": "c7fdea32-39b0-4a74-9b3d-bd7cbf50be53",
+      "DisplayName": "Dominio",
+      "ColorIndex": 1
+    },
+    "43cd1ff6-73f4-4baa-9dfb-afcea6dad02c": {
+      "ProjectGuid": "43cd1ff6-73f4-4baa-9dfb-afcea6dad02c",
+      "DisplayName": "AccesoDatos",
+      "ColorIndex": 2
+    },
+    "63a6b867-2f6d-48f4-9097-b28e671e01b7": {
+      "ProjectGuid": "63a6b867-2f6d-48f4-9097-b28e671e01b7",
+      "DisplayName": "CapaComun",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
